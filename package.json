@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "descriotion": "this test",
+  "main": "index.js",
+  "repository": "github.com/bazinga17/test.git",
+  "scripts": { "build": "parcel build css/html/*.html" },
+  "devDependencies": {"parcel-bundler": "1.12.3"}
+}
